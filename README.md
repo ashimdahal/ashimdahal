@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [ashimdahal.com.np](ashimdahal.com.np)
 
-- 💬 Ask me about **ML, DL and GANs.**
+- 💬 Let's chat about **Generative Models and GANs.**
 
 - 📫 How to reach me **codeashim@gmail.com**
 
