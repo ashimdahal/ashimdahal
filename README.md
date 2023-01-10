@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashimdahal&label=Profile%20views&color=0e75b6&style=flat" alt="ashimdahal" /> </p>
 
-- 🔭 I’m currently working on [Frida's Deployment.](https://github.com/ashimdahal/FRIDA-TEAM_AIR)
+- 🔭 I’m currently working on [torchy.](https://github.com/ashimdahal/easy-torch)
 
 - 🌱 I’m currently learning **to make new friends.**
 
