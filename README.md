@@ -1,4 +1,7 @@
-<h1 align="center">Hi 👋, I'm Ashim Dahal</h1>
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi 👋, I'm Ashim Dahal&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=2&size=28">
+  </h1>
 <h3 align="center">A conglomeration of intelligent atoms trying to replicate its own intelligence.</h3>
 
 <img align="right" width='500' src="https://art-twerks.com/wp-content/uploads/2018/10/ai-head-android-robot-artist.gif">
