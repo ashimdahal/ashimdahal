@@ -56,8 +56,10 @@
 <p align="center">
 <img src="https://github-readme-stats-gni594df7-ashimdahal.vercel.app/api?username=ashimdahal&count_private=true&theme=radical&show_icons=true&hide_border=true" alt="ashimdahal" />
 </p>
-
-### <img src="https://media.giphy.com/media/5WJ6SOKeNKrSzblU4R/giphy.gif" width="25"> Let's Connect <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" height="25px">
+</section>
+<section>
+  
+### <img src="https://media.giphy.com/media/5WJ6SOKeNKrSzblU4R/giphy.gif" width="25"> Find me on:
 <p align="left" />
 <a href="https://linkedin.com/in/ashimdahal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashimdahal" height="30" width="40" /></a>
 </p>
