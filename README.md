@@ -48,8 +48,9 @@
 
 <p><img width="42%" align="left" src="https://github-readme-stats-gni594df7-ashimdahal.vercel.app/api/top-langs?username=ashimdahal&show_icons=true&layout=compact&theme=radical&hide_border=true&hide=dart,css,HTML,scss" alt="ashimdahal" /></p>
 
-<p>&nbsp; <img width="50%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashimdahal&theme=radical&hide_border=true" alt="ashimdahal" />
-</p>
+&nbsp; 
+[![GitHub Streak](https://github-readme-streak-stats-smoky.vercel.app?user=ashimdahal&theme=radical&hide_border=true)](https://git.io/streak-stats)
+  
 <!-- ![Ashim's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashimdahal&show_icons=true&locale=en&count_private=true&theme=radical) -->
 
 <!-- [![Ashim's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashimdahal&count_private=true&theme=radical&show_icons=true)](https://github.com/ashimdahal) -->
