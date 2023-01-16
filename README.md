@@ -46,7 +46,7 @@
 </p>
 <section>
 
-<p><img width="40%" align="left" src="https://github-readme-stats-gni594df7-ashimdahal.vercel.app/api/top-langs?username=ashimdahal&show_icons=true&layout=compact&theme=radical&hide_border=true&hide=dart,css,HTML,scss" alt="ashimdahal" /></p>
+<p><img width="42%" align="left" src="https://github-readme-stats-gni594df7-ashimdahal.vercel.app/api/top-langs?username=ashimdahal&show_icons=true&layout=compact&theme=radical&hide_border=true&hide=dart,css,HTML,scss" alt="ashimdahal" /></p>
 
 <p>&nbsp; <img width="50%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashimdahal&theme=radical&hide_border=true" alt="ashimdahal" />
 </p>
@@ -54,7 +54,7 @@
 
 <!-- [![Ashim's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashimdahal&count_private=true&theme=radical&show_icons=true)](https://github.com/ashimdahal) -->
 <p align="center">
-<img width="60%"src="https://github-readme-stats-gni594df7-ashimdahal.vercel.app/api?username=ashimdahal&count_private=true&theme=radical&show_icons=true&hide_border=true" alt="ashimdahal" />
+<img src="https://github-readme-stats-gni594df7-ashimdahal.vercel.app/api?username=ashimdahal&count_private=true&theme=radical&show_icons=true&hide_border=true" alt="ashimdahal" />
 </p>
 
 ### <img src="https://media.giphy.com/media/5WJ6SOKeNKrSzblU4R/giphy.gif" width="25"> Let's Connect <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" height="25px">
