@@ -55,7 +55,8 @@
 
 <!-- [![Ashim's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashimdahal&count_private=true&theme=radical&show_icons=true)](https://github.com/ashimdahal) -->
 <p align="center">
-<img src="https://github-readme-stats-gni594df7-ashimdahal.vercel.app/api?username=ashimdahal&count_private=true&theme=radical&show_icons=true&hide_border=true" alt="ashimdahal" />
+  
+<img src="https://github-readme-stats-ashimdahal.vercel.app/api?username=ashimdahal&count_private=true&theme=radical&show_icons=true&hide_border=true" alt="ashimdahal" />
 </p>
 
   
