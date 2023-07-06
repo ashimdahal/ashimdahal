@@ -8,21 +8,21 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashimdahal&label=Profile%20views&color=0e75b6&style=flat" alt="ashimdahal" /> </p>
 
-- 🔭 I’m currently working on [torchy.](https://github.com/ashimdahal/easy-torch)
+- 🔭 I’m currently working on some cool stuff that might get completed in while which would force me to change this bio again, so, it's just the first repo that you see when you go to the repo tab on my profile.
 
 - 🌱 I’m currently learning **to make new friends.**
 
-- 👯 I’m looking to collaborate on [Jelly.](https://github.com/ashimdahal/jelly)
+- 👯 I’m looking to collaborate on [`see projects`.](https://github.com/ashimdahal/repositories)
 
 - 🤝 I’m looking for help with **Networking.**
 
-- 👨‍💻 All of my projects are available at [ashimdahal.com.np](ashimdahal.com.np)
+- 👨‍💻 All of my projects are available at [ashimdahal.com.np](ashimdahal.com.np) (and github).
 
 - 💬 Let's chat about **Generative Models and GANs.**
 
 - 📫 How to reach me **codeashim@gmail.com**
 
-- ⚡ Fun fact **I started with web development on php, and JS when I was in grade 8 before settling on python and a weird combination of data science and machine learning in grade 10.**
+- ⚡ Fun fact **I started with web development on php, and JS when I was in grade 8 before jumping to java for 2 months, and since the 14 year old me couldn't understand what 20 year old me doesn't like at all, I settled on python and a weird combination of data science and machine learning in grade 10, just after tinkering around and not registering dart and flutter.**
 
 
 <h3 align="left">Languages and Tools:</h3>
