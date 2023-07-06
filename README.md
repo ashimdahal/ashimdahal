@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashimdahal&label=Profile%20views&color=0e75b6&style=flat" alt="ashimdahal" /> </p>
 
-- 🔭 I’m currently working on some cool stuff that might get completed in while which would force me to change this bio again, so, it's just the first repo that you see when you go to the repo tab on my profile.
+- 🔭 I’m currently working on some cool stuff that might get completed in a while which would force me to change this bio again, so, it's just the first repo that you see when you go to the repo tab on my profile.
 
 - 🌱 I’m currently learning **to make new friends.**
 
