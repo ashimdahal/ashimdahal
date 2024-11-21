@@ -22,7 +22,7 @@
 
 - 📫 How to reach me **codeashim@gmail.com**
 
-- ⚡ Fun fact **I started with web development on php, and JS when I was in grade 8 before jumping to java for 2 months, and since the 14 year old me couldn't understand what 20 year old me doesn't like at all, I settled on python and a weird combination of data science and machine learning in grade 10, just after tinkering around and not registering dart and flutter.**
+- ⚡ Fun fact **I started with web development on php, and JS when I was in grade 8 before jumping to java for 2 months, and since the 14 year old me couldn't understand what 22 year old me doesn't like at all, I settled on python and a weird combination of data science and machine learning in grade 10, just after tinkering around and not registering dart and flutter.**
 
 
 <h3 align="left">Languages and Tools:</h3>
