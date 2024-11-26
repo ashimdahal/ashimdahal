@@ -16,7 +16,7 @@
 
 - 🤝 I’m looking for help with **Networking.**
 
-- 👨‍💻 All of my projects are available at [ashimdahal.com.np](ashimdahal.com.np) (and github).
+- 👨‍💻 All of my projects are available at [ashimdahal.com.np](https://ashimdahal.github.io) (and github).
 
 - 💬 Let's chat about **Generative Models and GANs.**
 
