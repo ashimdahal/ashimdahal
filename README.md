@@ -14,7 +14,7 @@
 
 - 👯 I’m looking to collaborate on [`see projects`.](https://github.com/ashimdahal/repositories)
 
-- 🤝 I’m looking for help with **Networking.**
+- 🤝 I’m looking for help with **NeRFs, Gaussian Splatting, voxels and 3D mesh texturing.**
 
 - 👨‍💻 All of my projects are available at [ashimdahal.com.np](https://ashimdahal.github.io) (and github).
 
