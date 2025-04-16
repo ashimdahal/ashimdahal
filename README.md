@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on some cool stuff (generative CompVis and 3D reconstruction) that might get completed in a while which would force me to change this bio again, so, it's just the first repo that you see when you go to the repo tab on my profile.
 
-- 🌱 I’m currently learning **to make new friends.**
+- 🌱 I’m currently learning **LVLMs, 3D/4D GS, Sparse GS reconstruction.**
 
 - 👯 I’m looking to collaborate on [`see projects`.](https://github.com/ashimdahal/repositories)
 
