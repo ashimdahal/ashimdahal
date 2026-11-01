@@ -2,7 +2,7 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=%E2%95%B0%E2%94%80%3E%20Hi%20%F0%9F%91%8B,%20I%27m%20Ashim%20Dahal.%20.%20.%20&font=Fira%20Code&center=true&width=520&height=50&color=f75c7e&vCenter=true&pause=2&size=28">
   </h1>
-<h3 align="center">A conglomeration of intelligent atoms trying to replicate its own intelligence.</h3>
+<h3 align="center">A conglomeration of individually intelligent atoms trying to replicate its own intelligence.</h3>
 
 <img align="right" width='500' src="https://art-twerks.com/wp-content/uploads/2018/10/ai-head-android-robot-artist.gif">
 
